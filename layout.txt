@@ -1,0 +1,44 @@
+SEQUENCE - SEQUENCE KARŞILAŞTIRMASI
+Hizalanmış 1 : GTCTG
+Hizalanmış 2 :  TCTAT
+------------------------------------------------
+Hizalanmış 1 : GTC--TG
+Hizalanmış 2 :   CCATT
+------------------------------------------------
+Hizalanmış 1 : CC-C-AT
+Hizalanmış 2 :   TCTAT
+------------------------------------------------
+Hizalanmış 1 :  CCCAT
+Hizalanmış 2 : ACCCC
+------------------------------------------------
+Hizalanmış 1 : CCCAT
+Hizalanmış 2 :  CCATT
+------------------------------------------------
+Hizalanmış 1 : TCT-AT
+Hizalanmış 2 :  C-CATT
+------------------------------------------------
+Hizalanmış 1 : ACCCC
+Hizalanmış 2 :  CCATT
+------------------------------------------------
+SEQUENCE COMPLEMENT KARŞILAŞTIRMASI
+Hizalanmış 1 :   CAGAC
+Hizalanmış 2 : CCCAT
+------------------------------------------------
+Hizalanmış 1 :  C-AGAC
+Hizalanmış 2 : TCTAT
+------------------------------------------------
+Hizalanmış 1 : CAGAC
+Hizalanmış 2 :    ACCCC
+------------------------------------------------
+Hizalanmış 1 :  CAGAC
+Hizalanmış 2 : CCATT
+------------------------------------------------
+Hizalanmış 1 :    ATGGG
+Hizalanmış 2 : TCTAT
+------------------------------------------------
+Hizalanmış 1 :   ATGGG
+Hizalanmış 2 : CCATT
+------------------------------------------------
+Hizalanmış 1 :   ATAGA
+Hizalanmış 2 : CCATT
+------------------------------------------------
